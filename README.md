@@ -25,5 +25,5 @@ Usage
 
    API Documentation
    ---------------------------------
-   The API documentation can be found in the blogs-api docs directory of this repository.
+   The API documentation can be found in the blogs-api.postman_collection.json of this repository.
 
